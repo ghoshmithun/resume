@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Mithun Ghosh Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,20 +10,24 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Mithun Ghosh"
+resume_title:                   "Data Scientist"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "mithun.ghosh@hotmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "9769792429"
+resume_contact_address:         "Flat 601, Block 13, Suncity Apartments, Ibblur, Bangalore, PIN 560102"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Flat 601 Block 13 GoldStrike, Suncty Apartments Ibblur • Bangalore • 9769704973 • mithunrecdgp@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>ML professional with 13 years of hands-on and managerial experience in developing ML powered products.
+Specialties: Text analytics, data mining, machine learning, natural language processing, online advertising, knowledge representation, offline advertising optimization etc
+Semantic parsing using a combination of grammars and machine learning (NLP)
+Automated Question Answering system, query expansion and search augmentation
+Building self-help system to solve real time user needs</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +49,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/ghoshmithun/resume"
+  resume_twitter_url:           "http://twitter.com/mithunrecdgp"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/mithunghosh"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  #resume_website_url:           "http://joelglovier.com"
+  #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
