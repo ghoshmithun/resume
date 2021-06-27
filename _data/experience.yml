@@ -5,7 +5,7 @@
   duration: Feb, 2020 &mdash; Present
   summary: I am working as data scientist and ML Engineer to develop and deploy ML solutions using methodologies of NLP, ML, Deep Learning etc. I also deploy these solution in distributed cluster environment in AWS	<ul class="resume-item-list"><li>Content based similar items recommendations based on text features</li><li>A/B and multivariate test design</li><li>SSearch augmentation using semantic features and text summarization</li><li>Data exploration and modeling to uncover future testing opportunities</li></ul>
 
-#- company: Intuit Inc.
+- company: Intuit Inc.
   position: ML Engineer
   duration: Jun, 2018 &mdash; Feb, 2020
   summary : Develop system of knowledge representation using NLP and Knowledge Engineering
@@ -22,3 +22,21 @@
   position: Lead Technical Consultant
   duration:   Jun, 2013  &mdash; Dec, 2014
   summary: <ul class="resume-item-list"><li>Business Forecasting</li><li>Lifetime Value Models</li><li>Propensity Models</li></ul>
+
+# Techincal Manager
+- company: HDFC Bank
+  position: Manager, Data Science, Marketing
+  duration:   Nov, 2010  &mdash; Jun, 2013
+  summary:
+
+# Technical Expert
+- company: The Nielsen Company
+  position: Data Scientist
+  duration:   Dec, 2009  &mdash; Nov, 2010
+  summary:
+
+# Analytics Expert, DSAS
+- company: Hewlett Packard
+  position: Data Scientist
+  duration:   Jul, 2008  &mdash; Dec, 2009
+  summary:
