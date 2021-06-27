@@ -5,8 +5,11 @@
 
 # Communications strategy
 - skill: Communications strategy
-  description: Content and marketing strategy,
+  description: Communicate with business stakeholders,
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# ML development and deployment
+- skill: ML model development and deployment
+  description: ML deployment in public and private cloud
+
+# Statistics and General Purpose Programming
+- skill: Python, R, Hadoop, PySpark, SAS, Java/C++ (basic)

@@ -1,19 +1,24 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Data Scientist and ML Engineer
+- company: Intuit Inc.
+  position: Staff Data Scientist
+  duration: Feb, 2020 &mdash; Present
+  summary: I am working as data scientist and ML Engineer to develop and deploy ML solutions using methodologies of NLP, ML, Deep Learning etc. I also deploy these solution in distributed cluster environment in AWS	<ul class="resume-item-list"><li>Content based similar items recommendations based on text features</li><li>A/B and multivariate test design</li><li>SSearch augmentation using semantic features and text summarization</li><li>Data exploration and modeling to uncover future testing opportunities</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+#- company: Intuit Inc.
+  position: ML Engineer
+  duration: Jun, 2018 &mdash; Feb, 2020
+  summary : Develop system of knowledge representation using NLP and Knowledge Engineering
+
+# People Manager for Data Scientists
+- company: Gap Inc
+  position: Senior Manager ( and Manager)
+  duration:  Dec, 2014 &mdash; Jun, 2014
+  summary: People manager responsibilities with number of data scientists reporting into. Architecting data driven solutions to solve business problems. Lead project to provide solution which impacts new business opportunities for organisation <ul class="resume-item-list"><li>Design, develop and implement predictive models for customer behavior across online and offline touch points for GAP</li><li>Developed discount sensitivity scoring algorithm</li><li>Product recommendation system</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Techincal Expert and Product Coordinator
+- company: Tata Technologies
+  position: Lead Technical Consultant
+  duration:   Jun, 2013  &mdash; Dec, 2014
+  summary: <ul class="resume-item-list"><li>Business Forecasting</li><li>Lifetime Value Models</li><li>Propensity Models</li></ul>
